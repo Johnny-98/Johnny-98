@@ -1,5 +1,5 @@
 <!-- ![MaterHead](https://marketplace.canva.com/EAFIddqdjTk/2/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-1PLNOKlL1HU.jpg) -->
- ![Banner]( https://github.com/Johnny-98/Johnny-98/blob/main/programmingbackground.jpg)
+<!-- ![Banner]( https://github.com/Johnny-98/Johnny-98/blob/main/programmingbackground.jpg) -->
 
 # 🏄‍♂️ Peter Dzhonov
 **`Digital Craftsman`**
