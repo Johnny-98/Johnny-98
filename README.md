@@ -3,8 +3,8 @@
 # 🏄‍♂️ Peter Dzhonov
 **`Digital Craftsman`**
 
-I'm an dront-end developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All projects are built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
-
+I'm an front-end developer building my version of the digital world one step at a time. All coding projects are built from ideation and planning, all the way to finalizing the content with artistic touches.
+I am currently working toward becomming a fullstack developper. 
 
 
 ---
