@@ -1,6 +1,7 @@
 ![MaterHead](https://marketplace.canva.com/EAFIddqdjTk/2/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-1PLNOKlL1HU.jpg)
 
-### Hi there 👋
+# 🏄‍♂️ Peter Dzhonov
+**`Digital Craftsman`**
 
 ---
 
